@@ -4,7 +4,7 @@
 
 I kept forgetting to check my Azure billing dashboard until the invoice showed up as a surprise. Cloud-Spend-Tracker fixes that by quietly painting your month-to-date Azure cost onto your desktop wallpaper, refreshed automatically throughout the day. No dashboard to open, no browser tab to remember — the number is just *there*, every time you look at your screen.
 
-![ Cloud-Spend-Tracker wallpaper example](./screenshots/screenshot.png)
+![ Cloud-Spend-Tracker wallpaper example](./AZURECOSTIMAGE.png)
 
 ## What it does
 
