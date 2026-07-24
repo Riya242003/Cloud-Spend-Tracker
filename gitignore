@@ -1,0 +1,11 @@
+# Local secrets - never commit
+config.json
+
+# Generated wallpaper image
+wallpaper_with_cost.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
